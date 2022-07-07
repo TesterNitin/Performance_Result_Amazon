@@ -1,0 +1,17 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+https://www.amazon.in/gp/navigation/ajax/generic.html?timelineContent=timeline&pageType=Gateway&subPageType=desktop&metricKey=timelineMetric&ajaxTemplate=timeline&rid=KAJYC4ZYTHJQJCNXVH01&_=1657169090687,1,670,670,670,0.00,0.000%,1.49254,2.39,1.05,1640.0
+https://www.amazon.in/gp/navigation/ajax/generic.html?ajaxTemplate=hMenuDesktopFirstLayer&pageType=Gateway&hmDataAjaxHint=1&isFreshRegion=false&isFreshCustomer=false&isPrimeMember=false&isPrimeDay=false&isSmile=false&regionalStores%5B%5D=ctnow&isBackup=false&firstName=nitin&navDeviceType=desktop&hashCustomerAndSessionId=81b16675027dc5c93bf2ed377530156621f847a5&isExportMode=false&environmentVFI=AmazonNavigationCards%2Fdevelopment-NAVX-8857-NAVX-9163-NAVX-9219%40B6086259407-AL2_x86_64&languageCode=en_IN,4,16008,262,62527,26858.51,0.000%,.04024,0.36,0.05,9046.0
+https://www.amazon.in/gp/navigation/ajax/generic.html?timelineContent=timeline&pageType=Gateway&subPageType=desktop&metricKey=timelineMetric&ajaxTemplate=timeline&rid=KAJYC4ZYTHJQJCNXVH01&_=1657169095693,1,322,322,322,0.00,0.000%,3.10559,6.42,2.63,2116.0
+https://unagi.amazon.in/1/events/com.amazon.csm.csa.prod,3,14782,4376,35204,14440.95,33.333%,.00914,0.01,0.70,1098.0
+https://www.amazon.in/ref=nav_logo,1,25123,25123,25123,0.00,0.000%,.03980,74.62,3.53,1919724.0
+https://www.amazon.in/gp/navigation/ajax/generic.html?timelineContent=timeline&pageType=Gateway&subPageType=desktop&metricKey=timelineMetric&ajaxTemplate=timeline&rid=KAJYC4ZYTHJQJCNXVH01&_=1657169100701,1,1506,1506,1506,0.00,0.000%,.66401,1.14,0.75,1758.0
+https://www.amazon.in/gp/navigation/ajax/generic.html?timelineContent=timeline&pageType=Gateway&subPageType=desktop&metricKey=timelineMetric&ajaxTemplate=timeline&rid=KAJYC4ZYTHJQJCNXVH01&_=1657169105716,1,3623,3623,3623,0.00,0.000%,.27601,0.47,0.31,1758.0
+https://www.amazon.in/gift-card-store/b/?ie=UTF8&node=3704982031&ref_=nav_cs_gc,1,21245,21245,21245,0.00,0.000%,.04707,133.33,3.50,2900552.0
+https://www.amazon.in/primeday/ref=indiaprimeday_eventhero?pf_rd_r=KAJYC4ZYTHJQJCNXVH01&pf_rd_p=e27aa094-2e37-43ea-ba0e-ec40ac72bf40&pd_rd_r=ff92b6d1-4fde-4474-9baa-313a38f82829&pd_rd_w=hwHZ2&pd_rd_wg=7iVUw&ref_=pd_gw_unk,1,53479,53479,53479,0.00,0.000%,.01870,55.50,0.88,3039475.0
+https://www.amazon.in/gp/browse.html?node=3704992031&ref_=nav_cs_hi,1,33798,33798,33798,0.00,100.000%,.02959,0.07,0.00,2574.0
+https://www.amazon.in/apb/page/content,1,583,583,583,0.00,0.000%,1.71527,3.85,2.26,2300.0
+https://data.amazon.in/api/marketplaces/A21TJRUUN4KGV/deals/watched,1,965,965,965,0.00,100.000%,1.03627,0.69,1.05,678.0
+https://completion.amazon.in/api/2017/suggestions,1,866,866,866,0.00,0.000%,1.15473,0.33,0.85,293.0
+https://www.amazon.in/gp/aq-feedback/lazyLoad/handler/af-link-handler.html?pl=%7B%22adCreativeMetaData%22%3A%7B%22adCreativeId%22%3A%22%22%2C%22adId%22%3A%225464811510102%22%2C%22adImpressionId%22%3A%22%22%2C%22adNetwork%22%3A%22aax%22%2C%22adProgramId%22%3A1010%2C%22adCreativeDetails%22%3A%5B%7B%22campaignId%22%3A%223267560070802%22%7D%5D%7D%2C%22adPlacementMetaData%22%3A%7B%22adElementId%22%3A%22MultiBrandBrowseCreativeDesktop%22%2C%22pageType%22%3A%22Browse%22%2C%22pageUrl%22%3A%22%22%2C%22searchTerms%22%3A%22%22%2C%22slotName%22%3A%22desktop-browse-auto%22%7D%7D,1,211,211,211,0.00,0.000%,4.73934,19.01,6.79,4108.0
+Test,1,250774,250774,250774,0.00,100.000%,.00303,23.40,1.37,7916454.0
+TOTAL,20,25077,211,250774,55047.60,20.000%,.06055,46.81,2.74,791645.4
